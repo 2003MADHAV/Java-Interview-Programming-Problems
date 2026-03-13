@@ -6,6 +6,7 @@ public class PrintEffeicinecyOfArrayElements {
 		int[] arr= {1,2,3,2,4,5,4,6,7,6,2,4,2};
 		
 		boolean[] b=new boolean[arr.length];
+		
 		System.out.println("Elements   Effeciency");
 		for(int i=0;i<arr.length;i++) {
 			int count=1;
