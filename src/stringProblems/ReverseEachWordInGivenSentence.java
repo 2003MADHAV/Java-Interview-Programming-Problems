@@ -6,6 +6,7 @@ public class ReverseEachWordInGivenSentence {
 		String s="Kalasalingam Academy Of Research";
 		String s2="";
 		String[] words=s.split(" ");
+		
 		for(int i=0;i<words.length;i++) {
 			String s1=words[i];
 			String rev="";
