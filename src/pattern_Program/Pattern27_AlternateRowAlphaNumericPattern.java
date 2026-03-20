@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Pattern27_AlternateRowAlphaNumericPattern {
 	public static void main(String[] args) {
 
-/*		
+/*	 Pattern	
 		A  
 		1  2  
 		B  C  D  
