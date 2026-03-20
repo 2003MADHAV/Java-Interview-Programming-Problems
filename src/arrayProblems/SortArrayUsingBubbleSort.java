@@ -5,7 +5,7 @@ public class SortArrayUsingBubbleSort {
 	public static void main(String[] args) {
 		int[] arr= {50,10,80,20,60,90,40,70,100,30};
 		System.out.println("Before Sorting Array :  "+Arrays.toString(arr));
-		for(int i=0;i<arr.length-1;i++) {
+		for(int i=0;i<arr.length;i++) {
 			for(int j=0;j<arr.length-i-1;j++) {
 				if(arr[j]>arr[j+1]) {
 					//Swap arr[j] and arr[j+1]
